@@ -1,0 +1,5 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target" : { "namespace": "android_app", "package_name": "com.rohanvg.pwa.twa",
+                   "sha256_cert_fingerprints": ["73:B6:CF:4E:A1:A7:14:0F:52:A9:FA:4E:6A:A5:95:7C:2F:6A:2E:43:F9:77:8C:A9:51:5A:80:1D:22:4F:AA:52"] }
+    }]
